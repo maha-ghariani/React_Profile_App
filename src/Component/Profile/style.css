@@ -1,0 +1,11 @@
+.photo{
+    margin-top: 60px;
+    margin-bottom: 15px;
+     height:200px;
+     width: 200px;
+     border-radius: 150px;
+     border: 1px solid rgba(128, 128, 128, 0.109);
+     }
+.photo:hover{
+         box-shadow: 10px 10px 10px 10px rgba(128, 128, 128, 0.422);
+     }
